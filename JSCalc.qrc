@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>calc.ui</file>
+        <file>calcCore.js</file>
+    </qresource>
+</RCC>
